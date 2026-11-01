@@ -8,6 +8,10 @@ import os
 from dataclasses import dataclass
 from functools import lru_cache
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 def _int_env(nama: str, default: int) -> int:
     nilai = os.getenv(nama)
