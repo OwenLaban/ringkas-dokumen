@@ -1,0 +1,77 @@
+{
+  "waktu": "2026-11-01 09:27:07",
+  "dokumen_token": 927,
+  "model": [
+    "llama3.2:1b",
+    "qwen2.5:1.5b",
+    "gemma2:2b"
+  ],
+  "hasil": [
+    {
+      "model": "llama3.2:1b",
+      "latency_s": 61.5,
+      "strategi": "map_reduce",
+      "jumlah_chunk": 2,
+      "token_input": 927,
+      "token_output": 149,
+      "token_per_detik": 11.5,
+      "kompresi": 6.22,
+      "fakta_tertahan": 5,
+      "total_fakta": 8,
+      "fakta_ditemukan": [
+        "kapasitas_25_mw",
+        "investasi_410_miliar",
+        "cod_september_2026",
+        "lokasi_sumba",
+        "ppa_pln_20_tahun"
+      ],
+      "peringatan": [],
+      "ringkasan": "Proyek Solar Farm Sumba berada di Kabupaten Sumba Timur, Nusa Tenggara Timur, dengan kapasitas terpasang 25 MW dan nilai investasi Rp410 miliar. Target commercial operation date (COD) adalah 30 September 2026. Struktur pendanaan disepakati 60 persen pinjaman bank dan 40 persen ekuitas. Kontrak jual beli listrik dengan PLN berlaku 20 tahun dengan tarif USD 0,058 per kWh. Sistem SCADA dipasang untuk pemantauan produksi dan deteksi gangguan secara real time. Risiko utama proyek adalah keterlambatan izin pemanfaatan ruang, cuaca ekstrem pada musim hujan, fluktuasi harga panel, dan keterbatasan tenaga kerja terampil."
+    },
+    {
+      "model": "qwen2.5:1.5b",
+      "latency_s": 69.83,
+      "strategi": "map_reduce",
+      "jumlah_chunk": 2,
+      "token_input": 927,
+      "token_output": 394,
+      "token_per_detik": 16.88,
+      "kompresi": 2.35,
+      "fakta_tertahan": 7,
+      "total_fakta": 8,
+      "fakta_ditemukan": [
+        "kapasitas_25_mw",
+        "investasi_410_miliar",
+        "cod_september_2026",
+        "mitra_surya_teknik",
+        "lokasi_sumba",
+        "ppa_pln_20_tahun",
+        "tambah_3_insinyur"
+      ],
+      "peringatan": [],
+      "ringkasan": "Rapat Proyek Solar Farm Sumba:\n- Kapasitas 25 MW, investasi Rp410 miliar\n- Target COD: 30 September 2026\n- Pendanaan: 60% bank, 40% ekuitas\n- PPN: 20 tahun, tarif USD 0,058/kWh\n- Kontraktor EPC: PT Surya Teknik, nilai Rp275 miliar\n- O&M: 5 tahun, jaminan 95% produksi estimasi\n- Izin lingkungan keluar, izin pemanfaatan ruang menunggu rekomendasi\n- Pembebasan lahan 80%, 2 bidang tanah tersisa negosiasi\n- Perjanjian PPA dengan PLN, 20 tahun, tarif USD 0,058/kWh\n- Inverter dan panel surya menjadi jalur kritis, penambahan insinyur listrik\n- Percepatan pengadaan inverter melalui penunjukan langsung, due diligence teknis dan harga tetap\n- Penambahan 3 insinyur listrik untuk desain dan commissioning\n- 120 pekerja lokal dalam fase konstruksi, 40 teknisi lokal untuk operasi setelah COD, SCADA untuk pemantauan real time, auditor eksternal setiap kuartal\n- Risiko utama: keterlambatan izin pemanfaatan ruang, cuaca ekstrem, fluktuasi harga panel, dan keterbatasan tenaga kerja terampil. Mitigasi: rapat mingguan, buffer jadwal 6 minggu, harga tetap untuk panel, dan skema retensi pekerja kunci\n- Keputusan: menambah 3 insinyur listrik, mempercepat pengadaan inverter, penutupan pinjaman pada 28 Februari 2026, pembebasan lahan pada 31 Maret 2026, kontrak O&M paling lambat 30 April 2026, dan rapat tindak lanjut pada 9 Februari 2026"
+    },
+    {
+      "model": "gemma2:2b",
+      "latency_s": 102.79,
+      "strategi": "map_reduce",
+      "jumlah_chunk": 2,
+      "token_input": 927,
+      "token_output": 423,
+      "token_per_detik": 8.81,
+      "kompresi": 2.19,
+      "fakta_tertahan": 6,
+      "total_fakta": 8,
+      "fakta_ditemukan": [
+        "kapasitas_25_mw",
+        "investasi_410_miliar",
+        "mitra_surya_teknik",
+        "lokasi_sumba",
+        "ppa_pln_20_tahun",
+        "tambah_3_insinyur"
+      ],
+      "peringatan": [],
+      "ringkasan": "Rapat proyek Solar Farm Sumba di Jakarta pada 12 Januari 2026 dihadiri peserta yang terdiri dari Direktur Operasional, Manajer Proyek, Manajer Keuangan, Kepala Legal, dan perwakilan mitra EPC. Proyek ini direncanakan memiliki kapasitas 25 MW dengan nilai investasi Rp410 miliar. Pendanaan proyek terdiri dari 60% pinjaman bank dan 40% ekuitas. Bank mitra telah menyetujui fasilitas pinjaman sebesar Rp246 miliar dengan tenor 12 tahun dan masa tenggang 2 tahun. Kontrak dengan PT Surya Teknik sebagai EPC dengan nilai Rp275 miliar telah disetujui. Perjanjian jual beli listrik (PPA) dengan PLN berlaku 20 tahun dengan tarif USD 0,058 per kWh. Pembebasan lahan seluas 12 hektare sudah mencapai 80%. \n\nRapat menyetujui penambahan 3 insinyur listrik untuk mempercepat desain dan commissioning.  Rapat memutuskan untuk mempercepat pengadaan inverter melalui penunjukan langsung terbatas dengan syarat due diligence teknis dan harga tetap. 120 pekerja lokal akan terlibat pada fase konstruksi. Sistem SCADA akan dipasang untuk pemantauan produksi dan deteksi gangguan. \n\nRisiko utama proyek adalah keterlambatan izin pemanfaatan ruang, cuaca ekstrem, fluktuasi harga panel, dan keterbatasan tenaga kerja. Mitigasi yang disepakati meliputi rapat koordinasi mingguan, buffer jadwal 6 minggu, kontrak harga tetap untuk panel, dan skema retensi pekerja kunci. \n\nRapat memutuskan untuk menargetkan penutupan pinjaman pada 28 Februari 2026, pembebasan lahan pada 31 Maret 2026, dan menandatangani kontrak O&M paling lambat 30 April 2026. Notulen ini disusun oleh Sekretariat Proyek dan menjadi acuan tindak lanjut seluruh divisi."
+    }
+  ]
+}

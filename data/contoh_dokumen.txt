@@ -1,0 +1,38 @@
+LAPORAN RAPAT PROYEK SOLAR FARM SUMBA
+Tanggal: 12 Januari 2026
+Lokasi: Kantor PT Nusantara Hijau Energi, Jakarta
+
+PESERTA
+Rapat dihadiri oleh Direktur Operasional (Budi Santoso), Manajer Proyek (Sari Wulandari), Manajer Keuangan (Andi Pratama), Kepala Legal (Maya Kusuma), dan perwakilan mitra EPC PT Surya Teknik (Rizky Hidayat).
+
+1. STATUS PROYEK
+Proyek Solar Farm Sumba berada di Kabupaten Sumba Timur, Nusa Tenggara Timur. Kapasitas terpasang direncanakan 25 MW dengan nilai investasi Rp410 miliar. Pembangunan mencakup 45.500 panel bifacial 550 Wp, inverter terpusat, jaringan transmisi 20 kV sepanjang 8 kilometer, serta sistem penyimpanan baterai berkapasitas 10 MWh. Target commercial operation date (COD) adalah 30 September 2026.
+
+2. PENDANAAN
+Struktur pendanaan disepakati 60 persen pinjaman bank dan 40 persen ekuitas. Bank mitra telah menyetujui fasilitas pinjaman sebesar Rp246 miliar dengan tenor 12 tahun dan masa tenggang 2 tahun. Sisa kebutuhan didanai dari kas internal dan obligasi hijau. Manajer Keuangan diminta menyelesaikan dokumen penutupan pinjaman paling lambat 28 Februari 2026.
+
+3. KONTRAK DAN KEMITRAAN
+Perjanjian jual beli listrik (PPA) dengan PLN berlaku 20 tahun dengan tarif USD 0,058 per kWh. PT Surya Teknik ditunjuk sebagai kontraktor EPC dengan nilai kontrak Rp275 miliar. Kontrak operasi dan pemeliharaan (O&M) akan ditandatangani untuk periode 5 tahun. Jaminan performa minimum ditetapkan 95 persen dari produksi estimasi. Asuransi konstruksi wajib aktif sebelum mobilisasi alat berat.
+
+4. IZIN DAN LAHAN
+Pembebasan lahan seluas 12 hektare sudah mencapai 80 persen. Tiga bidang tanah tersisa masih dalam proses negosiasi dengan pemilik adat. Kepala Legal melaporkan bahwa izin lingkungan telah keluar, tetapi izin pemanfaatan ruang masih menunggu rekomendasi pemerintah daerah. Risiko keterlambatan diperkirakan 2 bulan jika izin tidak selesai pada Maret 2026.
+
+5. PENGADAAN
+Pengadaan inverter dan panel surya menjadi jalur kritis. Manajer Proyek mengusulkan percepatan pengadaan inverter melalui penunjukan langsung terbatas, dengan syarat due diligence teknis dan harga tetap. Rapat menyetujui penambahan 3 insinyur listrik untuk mempercepat desain dan commissioning. Dua insinyur akan ditempatkan di lokasi dan satu di kantor pusat.
+
+6. KESELAMATAN DAN SDM
+Sebanyak 120 pekerja lokal akan dilibatkan pada fase konstruksi. Program pelatihan keselamatan kerja wajib diikuti seluruh pekerja dan 40 teknisi lokal akan dilatih untuk operasi setelah COD. Sistem SCADA akan dipasang untuk pemantauan produksi dan deteksi gangguan secara real time. Auditor eksternal akan melakukan inspeksi keselamatan setiap kuartal.
+
+7. RISIKO UTAMA
+Risiko utama proyek adalah keterlambatan izin pemanfaatan ruang, cuaca ekstrem pada musim hujan, fluktuasi harga panel, dan keterbatasan tenaga kerja terampil. Mitigasi yang disepakati: rapat koordinasi mingguan, buffer jadwal 6 minggu, kontrak harga tetap untuk panel, dan skema retensi pekerja kunci.
+
+8. KEPUTUSAN
+Rapat memutuskan:
+a. Menambah 3 insinyur listrik.
+b. Mempercepat pengadaan inverter dengan penunjukan langsung terbatas.
+c. Menargetkan penutupan pinjaman pada 28 Februari 2026.
+d. Menyelesaikan pembebasan lahan pada 31 Maret 2026.
+e. Menandatangani kontrak O&M paling lambat 30 April 2026.
+f. Mengadakan rapat tindak lanjut pada 9 Februari 2026.
+
+Notulen ini disusun oleh Sekretariat Proyek dan menjadi acuan tindak lanjut seluruh divisi.
