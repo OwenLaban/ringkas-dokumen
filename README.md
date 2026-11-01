@@ -93,7 +93,7 @@ atau `NUM_CTX`). Tidak ada API key yang dibutuhkan.
 ```powershell
 $body = @{
   teks = Get-Content data/contoh_dokumen.txt -Raw
-  strategi = "auto"
+  strategi = "map_reduce"
 } | ConvertTo-Json
 
 Invoke-RestMethod -Method Post `
